@@ -1,0 +1,6 @@
+com\example\BasicApplication.class
+com\example\telegrambot\MessageHandler.class
+com\example\telegrambot\TelegramBot.class
+com\example\telegrambot\TelegramBotConfig.class
+com\example\telegrambot\OpenAIService.class
+com\example\telegrambot\TelegramBotsApi.class
